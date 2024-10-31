@@ -1,2 +1,2 @@
 # ds-final-project
-My honors thesis project for my Data Science major at UC Berkeley.
+My Data Science honors thesis project at UC Berkeley.
